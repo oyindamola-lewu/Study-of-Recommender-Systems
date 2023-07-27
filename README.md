@@ -4,4 +4,4 @@ My notes for the Recommender Systems Handbook by F. Ricci, L. Roach, B. Shapira 
 # Chapters
 | Status | Chapter |
 | ----|---- |
-| In progress | Ch 1. Introduction to Recommender Systems Handbook |
+| 📝 In progress | Ch 1. Introduction to Recommender Systems Handbook |
